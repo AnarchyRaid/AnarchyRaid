@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Донат | GriefMC</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white font-sans">
+  <header class="text-center py-10 bg-gray-800 shadow">
+    <h1 class="text-4xl font-bold text-green-400">GriefMC Донат Магазин</h1>
+    <p class="mt-2 text-gray-300">Поддержи сервер и получи уникальные привилегии!</p>
+  </header>
+
+  <main class="max-w-6xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <!-- Карточки донатов -->
+    
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-yellow-400">Light</h2>
+        <p class="mt-2 text-gray-300">• /hat, цветной чат<br>• 2 региона</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">30 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-red-400">Flame</h2>
+        <p class="mt-2 text-gray-300">• /repair, /sethome x2<br>• Цветной чат</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">60 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-purple-400">Griefer</h2>
+        <p class="mt-2 text-gray-300">• /feed, /heal<br>• /enderchest, защита от потерь</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">100 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-blue-400">Frost</h2>
+        <p class="mt-2 text-gray-300">• /fly, скорость<br>• Ночное зрение, 3 дома</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">150 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-pink-400">Phantom</h2>
+        <p class="mt-2 text-gray-300">• /vanish, /invsee<br>• Приватная шахта</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">200 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-indigo-400">King</h2>
+        <p class="mt-2 text-gray-300">• /tpo, приват варп<br>• Бесплатный набор</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">300 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-green-300">Dragon</h2>
+        <p class="mt-2 text-gray-300">• /god, кланы<br>• Ломать приват в PvP-зонах</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">400 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg flex flex-col justify-between">
+      <div>
+        <h2 class="text-2xl font-bold text-fuchsia-400">Universe</h2>
+        <p class="mt-2 text-gray-300">• Питомец, эффекты<br>• WorldEdit, персональный варп</p>
+      </div>
+      <div class="mt-4">
+        <p class="text-lg text-green-400 font-semibold">600 MDL</p>
+        <a href="https://t.me/YourTelegramBot" target="_blank" class="mt-2 inline-block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-xl transition">Купить</a>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="text-center py-6 text-gray-500">
+    © 2025 GriefMC. Все права защищены. | <a href="https://t.me/YourTelegramBot" class="text-green-400 hover:underline">Поддержка</a>
+  </footer>
+</body>
+</html>
